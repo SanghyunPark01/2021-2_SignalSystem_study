@@ -1,2 +1,8 @@
 # 2021-2_SignalSystem_study
-2021-2 Signal&amp;System study
+신호및 시스템 과목을 스터디하고 정리한내용을 기록하는 Repository이다.  
+
+내용정리는 [깃허브 블로그](https://sanghyunpark01.github.io/)에 올릴것이다.
+
+---
+## 1 
+[Ch01 Signals and Systems (1)](https://sanghyunpark01.github.io/signals&systems_study/Sig&Sys_study-Ch01_1/)
