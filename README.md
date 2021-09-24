@@ -5,4 +5,5 @@
 
 ---
 ## 1 
-[Ch01 Signals and Systems (1)](https://sanghyunpark01.github.io/sigsys_study/Sig&Sys_study-Ch01_1/)
+[Ch01 Signals and Systems (1)](https://sanghyunpark01.github.io/sigsys_study/Sig&Sys_study-Ch01_1/)  
+[Ch01 Signals and Systems (2)](https://sanghyunpark01.github.io/sigsys_study/Sig&Sys_study-Ch01_2/)
