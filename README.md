@@ -9,4 +9,8 @@
 [Ch01 Signals and Systems (2)](https://sanghyunpark01.github.io/sigsys_study/Sig&Sys_study-Ch01_2/)
 
 ## 2
-[Ch02 Linear Time-Invariant(LTI) SystemsPermalink (1)](https://sanghyunpark01.github.io/sigsys_study/Sig&Sys_study-Ch02_1/)
+[Ch02 Linear Time-Invariant(LTI) SystemsPermalink (1)](https://sanghyunpark01.github.io/sigsys_study/Sig&Sys_study-Ch02_1/)  
+[Ch02 Linear Time-Invariant(LTI) SystemsPermalink (2)](https://sanghyunpark01.github.io/sigsys_study/Sig&Sys_study-Ch02-2/)  
+
+## 3  
+[Ch03-2, Ch03-3, Ch03-10, Ch03-11](https://sanghyunpark01.github.io/sigsys_study/Sig&Sys_study-Ch03/)
